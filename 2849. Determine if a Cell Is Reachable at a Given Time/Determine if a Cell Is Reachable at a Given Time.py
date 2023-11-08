@@ -3,7 +3,7 @@ class Solution:
         if ((sx == fx) and (sy == fy) and (t == 1)):
             return False
         XD = abs(sx - fx)
-        XY = abs(sy - fy)
-        if (max(XD,XY,t) <= t):
+        YD = abs(sy - fy)
+        if (max(XD,YD,t) <= t):
             return True
         return False
