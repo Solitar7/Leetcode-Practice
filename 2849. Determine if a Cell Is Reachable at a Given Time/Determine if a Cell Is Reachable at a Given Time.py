@@ -4,6 +4,6 @@ class Solution:
             return False
         XD = abs(sx - fx)
         YD = abs(sy - fy)
-        if (max(XD,YD,t) <= t):
+        if (max(XD,YD) <= t):
             return True
         return False
