@@ -1,6 +1,3 @@
 # Leetcode-Practice
-12.8和12.9（大概这两天）的两个递归题目看能不能优化或者改循环或者怎么做一下，然后审查做过的题目记录一下时间等数据，前面还有个简单的可以加写Java和C++的题目是哪个找一下？
 
-12.29和12.30
-
-1.4
+This repositary records my daily practices on [LeetCode](https://leetcode.com/y1wen/) from November to January. Most of them are written in Python only, but there are also some of them solved by Python, Java, and C++.
